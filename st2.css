@@ -1,0 +1,24 @@
+.list-hex-grid div.hex{
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 5rem;
+    margin-top: 10rem;
+    float: none;
+    position: relative;
+    z-index: 10;
+}
+.main{
+    margin: 0;
+    text-align: center;
+    word-spacing: 1px;
+    text-transform: none;
+    letter-spacing: 0;
+    color: #6b6b6b;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-font-smoothing: antialiased;
+    font: inherit;
+    font-size: 100%;
+    margin: 0;
+    padding: 0;
+    display: block;
+}
